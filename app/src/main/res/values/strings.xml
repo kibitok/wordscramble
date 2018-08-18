@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Wordscramble</string>
+    <string name="Username">Username</string>
+    <string name="User_Email">Email</string>
+    <string name="Login">Login</string>
+    <string name="Score">Find previous scores</string>
+    <string name="Location">Location</string>
+    <string name="Age">Age</string>
+    <string name="WordScramble_title">Word Scramble</string>
+    <string name="ScrambledWord">Scrambled word</string>
+    <string name="Input_Guess">Input your guess!</string>
+    <string name="GuessButton">Guess Button</string>
+    <string name="How_To_Play">
+        <summary> Welcome to Word Scramble.
+            There are only two rules you have to follow in order to win the game.
+                rule number 1: Unscramble the word that is given
+                rule number 2: Beat the timer
+        </summary>
+    </string>
+    <string name="Share_with_friends">
+        Want to Make it more fun? Share it with your friends so that they can compete against
+        your score.
+    </string>
+    <string name="StartGame">Start the Game</string>
+</resources>
